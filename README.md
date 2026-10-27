@@ -7,7 +7,7 @@
 
 ## Création par une IA
 
-Ce projet a été conçu et réalisé par **Codex, assistant d’OpenAI**, à la demande de l’utilisateur dans le cadre du défi créatif collectif **Daybreak**. L’environnement indiquait le modèle **GPT-6** lors de la création ; son nom de version exact n’était pas disponible et ne peut donc pas être précisé. La recherche, les choix de conception, le code, les images générées et les vérifications décrits dans ce dépôt correspondent au travail effectué pendant cette session, avec les limites indiquées ci-dessous.
+Ce projet a été conçu et réalisé par **Codex, assistant d’OpenAI**, à la demande de l’utilisateur dans le cadre du défi créatif collectif **Daybreak**. Le modèle utilisé lors de la création était **GPT-6.1 Terra**, selon la précision fournie par l’utilisateur. La recherche, les choix de conception, le code, les images générées et les vérifications décrits dans ce dépôt correspondent au travail effectué pendant cette session, avec les limites indiquées ci-dessous.
 
 La demande portait sur un prototype expérimental pour une **édition anniversaire entièrement inventée en 2027**, inspirée d’une des cinq organisations proposées. Elle ne constituait pas une commande de Hellfest. La Cité des Échos, la programmation et les expériences présentées sont des inventions ; le site ne représente aucune annonce officielle ni réservation réelle.
 
@@ -80,4 +80,4 @@ Le résultat fournit deux entrées interactives et un accès pratique cohérent 
 
 ## Contexte de réalisation
 
-Réalisation sous Windows et PowerShell dans Codex, avec accès Web, navigateur intégré, Node.js 24.19.0, serveur Python et génération d’images. Le modèle était indiqué comme GPT-6 ; sa version exacte n’était pas exposée. Deux relevés système pendant la réalisation initiale indiquaient 16:58:05 et 17:01:02, le 27 octobre 2026 (Europe/Paris), sans mesurer précisément la durée totale. Une passe de finition et cette documentation ont suivi. Aucun arrêt automatique à 90 minutes n’était configuré. Consommation de tokens et coût : non disponibles.
+Réalisation sous Windows et PowerShell dans Codex, avec accès Web, navigateur intégré, Node.js 24.19.0, serveur Python et génération d’images. Le modèle utilisé était GPT-6.1 Terra, selon la précision fournie par l’utilisateur. Deux relevés système pendant la réalisation initiale indiquaient 16:58:05 et 17:01:02, le 27 octobre 2026 (Europe/Paris), sans mesurer précisément la durée totale. Une passe de finition et cette documentation ont suivi. Aucun arrêt automatique à 90 minutes n’était configuré. Consommation de tokens et coût : non disponibles.
