@@ -76,4 +76,6 @@ Aucun test avec lecteur d’écran, audit automatisé complet d’accessibilité
 
 ## 8. Éléments non disponibles
 
-Durée complète précisément mesurée, consommation de tokens, coût, version exacte du modèle, capture de chaque interaction dans son état sélectionné, résultats d’une étude utilisateur et résultats de tests sur appareils physiques ne sont pas disponibles. Les horaires système relevés durant la première passe sont des repères partiels, et non une mesure de durée totale.
+Durée complète précisément mesurée, consommation de tokens, coût, capture de chaque interaction dans son état sélectionné, résultats d’une étude utilisateur et résultats de tests sur appareils physiques ne sont pas disponibles. Les horaires système relevés durant la première passe sont des repères partiels, et non une mesure de durée totale.
+
+Le modèle utilisé lors de la création est GPT-6.1 Terra, selon la précision fournie par l’utilisateur après la réalisation.
