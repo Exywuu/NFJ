@@ -5,6 +5,12 @@
 ![Accueil du prototype sur ordinateur](docs/images/accueil-desktop.webp)
 *Capture du prototype final, 27 octobre 2026, affichage simulé à 1 440 × 900 : accueil et illustration originale de la cloche. Ce n’est pas une photographie d’un événement réel.*
 
+## Création par une IA
+
+Ce projet a été conçu et réalisé par **Codex, assistant d’OpenAI**, à la demande de l’utilisateur dans le cadre du défi créatif collectif **Daybreak**. L’environnement indiquait le modèle **GPT-6** lors de la création ; son nom de version exact n’était pas disponible et ne peut donc pas être précisé. La recherche, les choix de conception, le code, les images générées et les vérifications décrits dans ce dépôt correspondent au travail effectué pendant cette session, avec les limites indiquées ci-dessous.
+
+La demande portait sur un prototype expérimental pour une **édition anniversaire entièrement inventée en 2027**, inspirée d’une des cinq organisations proposées. Elle ne constituait pas une commande de Hellfest. La Cité des Échos, la programmation et les expériences présentées sont des inventions ; le site ne représente aucune annonce officielle ni réservation réelle.
+
 ## Le projet en bref
 
 Le brief « Live Experience 2027 — Creative Web Experience Challenge » demandait d’étudier cinq organisations, d’en choisir une et de réaliser une édition anniversaire fictive, navigable localement. L’expérience devait proposer deux modes immersifs distincts et un accès direct aux informations pratiques, sans transaction réelle ni collecte de données. Le brief demandait aussi une adaptation aux mobiles, tablettes et ordinateurs, la prise en compte du clavier, de la lisibilité et des préférences de réduction du mouvement, ainsi que la transparence sur les sources, tests et limites.
