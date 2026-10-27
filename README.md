@@ -2,6 +2,8 @@
 
 **Un prototype web expérimental indépendant inspiré de l’univers du Hellfest.** Son édition anniversaire 2027, ses lieux et sa programmation sont entièrement fictifs. Il n’a été ni commandé, ni produit, ni validé par Hellfest et ne représente pas l’édition officielle 2027. Aucun billet n’est vendu et aucune donnée personnelle n’est demandée.
 
+**[Découvrir la démonstration en ligne →](https://exywuu.github.io/NFJ/)**
+
 ![Accueil du prototype sur ordinateur](docs/images/accueil-desktop.webp)
 *Capture du prototype final, 27 octobre 2026, affichage simulé à 1 440 × 900 : accueil et illustration originale de la cloche. Ce n’est pas une photographie d’un événement réel.*
 
